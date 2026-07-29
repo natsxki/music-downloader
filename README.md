@@ -39,7 +39,7 @@ I created this project because I needed to batch download content to train DJing
 - **Skips duplicates** - files that already exist aren't re-downloaded (`nooverwrites`)
 - **Comment-friendly lists** - lines starting with `#` are ignored
 - **Polite by default** - a configurable delay between downloads to dodge rate-limiting
-- **Pretty terminal output** - colored progress, per-track status, and a final summary ✧
+- **Pretty terminal output** - colored progress, per-track status, and a final summary 
 
 ---
 
