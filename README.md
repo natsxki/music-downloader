@@ -5,7 +5,7 @@
 Automatically downloads music as high-quality MP3 from a plain text list of track titles. The script searches each title on YouTube and downloads the best available audio, with metadata and album art embedded.
 Spotify/Youtube playlist option coming soon /•᷅‎‎•᷄\੭
 
-I created this project because I needed to batch download content to train DJing from home :
+I created this project because I needed to batch download content to train DJing from home.
 
 *anyways*
 
