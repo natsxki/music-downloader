@@ -133,6 +133,6 @@ music-downloader/
 
 <div align="center">
 
-*Made by [**natsxki**](https://github.com/natsxki) 
+Made by [**natsxki**](https://github.com/natsxki) 
 
 </div>
